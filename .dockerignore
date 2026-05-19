@@ -1,0 +1,7 @@
+.env
+sites.txt
+output.json
+output.jsonl
+__pycache__/
+*.pyc
+.git/

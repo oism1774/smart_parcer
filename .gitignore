@@ -1,0 +1,12 @@
+sites.txt
+.env
+__pycache__/
+output.json
+output.jsonl
+
+*.pyc
+*.pyo
+*.pyd
+
+.cursor/
+.vscode/

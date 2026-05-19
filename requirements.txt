@@ -1,0 +1,5 @@
+# Crawl4AI и браузер (Playwright) уже установлены в базовом образе unclecode/crawl4ai:all-amd64.
+# Здесь — только то, что мы явно добавляем поверх образа.
+
+pydantic>=2.7,<3
+python-dotenv>=1.0,<2
